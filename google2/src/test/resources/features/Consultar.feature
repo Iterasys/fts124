@@ -4,7 +4,7 @@ Feature: Buscar Termo
 		Given que acesso o site do Google1
 		When digito o termo "feriado" e pressiono Enter1
 	#	And pressiono o Enter
-		Then vejo os resultados e a guia "feriado - Pesquisa Google" 1
+		Then vejo os resultados e a guia "Feriados nacionais para o ano de 2019" 1
 		
 	# Scenario: Busca Termo Unico com Clique
 	#	Given que acesso o site do Google
